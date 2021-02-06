@@ -1,0 +1,7 @@
+[RESOURCES]
+Wash machine
+[VARIABLES]
+Wash System.NumberOut
+Dispose 1.NumberOut
+Wash System.NumberIn
+Arrival Vehical.NumberOut
